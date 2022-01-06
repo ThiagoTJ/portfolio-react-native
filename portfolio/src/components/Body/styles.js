@@ -17,9 +17,10 @@ const styles = StyleSheet.create({
   },
   content: {
     fontSize: 16,
+    lineHeight: 22,
     color: '#FFF',
     textAlign: 'justify',
-    marginBottom: 4
+    marginBottom: 8
   },
   subtitle:{
       color: '#FFF',
